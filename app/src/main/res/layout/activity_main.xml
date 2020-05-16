@@ -8,10 +8,11 @@
 
 
     <ImageButton
+        android:id="@+id/buttonPlayClicker"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:contentDescription="@string/click"
-        android:src="@drawable/peach_and_bowser"
+        android:src="@drawable/peach_relaxing"
         android:scaleType="fitCenter"
         />
 
